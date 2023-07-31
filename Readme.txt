@@ -1,8 +1,3 @@
-Thanks for downloading this template!
+this is the officia website for cocoacluckfeed company
 
-Template Name: Anyar
-Template URL: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
-
-
+last updated: i worked on the index 7/31/23
